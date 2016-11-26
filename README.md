@@ -14,8 +14,10 @@ https://cloud.githubusercontent.com/assets/23329918/20639642/c573a7ac-b3d1-11e6-
 4.
 Додала submodule зі свого репозиторія 6-vcs-advanced. Створила новий репозиторій forth-task, склонувала,додала git submodule add <ссилка на репозиторій яка використовується для клонування> і натиснула ентер. Потім перевірила git status, додались декілька нових файлів, я їх закомітила та запушила на свій репозиторій в master branchhttps://cloud.githubusercontent.com/assets/23329918/20639601/d3ca6ab2-b3d0-11e6-80cd-bafac94d3620.png
 
-5. 
+5.
 Створила новий репозиторій fifth-task, створила на ньому бренчу gh-pages. Створила в цій бренчі файл index.html з заголовком.Здійснила commit & push, зайшла на https://alinachergava.github.io/fifth-task/index.html. Після цього зробила зміни в файлі index.html ще раз commit & push . Ще раз перейшла по цій ссилці https://alinachergava.github.io/fifth-task/index.html побачила,що зміни синхронізувалисяhttps://cloud.githubusercontent.com/assets/23329918/20639605/f2b1711e-b3d0-11e6-8120-a8b4de12c60d.pnghttps://cloud.githubusercontent.com/assets/23329918/20639608/fd08f786-b3d0-11e6-9b93-0bd8d2807f82.png
+
 6.
+Зробила зміни в бренчі master,закомітила, перейла на бренч branch, повністю змінила текст файлу, змерджила, отримала конфлікт, виконала git merge --abort, пофіксила конфлікт, виконала git merge
 https://cloud.githubusercontent.com/assets/23329918/20639864/070024ba-b3d8-11e6-8b39-4418b2dc5814.png
 
